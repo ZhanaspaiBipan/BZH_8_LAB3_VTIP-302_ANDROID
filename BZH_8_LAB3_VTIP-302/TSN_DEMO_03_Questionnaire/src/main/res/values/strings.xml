@@ -1,0 +1,25 @@
+<resources>
+    <!-- Название программы -->
+    <string name="app_name">TSN_DEMO_03_Questionnaire</string>
+
+    <!-- Текстовые константы -->
+    <string name="Компьютеры">Компьютеры</string>
+    <string name="Введите_группу">Группа:</string>
+    <string name="Укажите_технику">Техника:</string>
+    <string name="ПК">ПК</string>
+    <string name="Ноутбук">Ноутбук</string>
+    <string name="Выберите_ОС">Операционная Система:</string>
+    <string name="Имя">Жанаспай Бипан ВТиП-302</string>
+    <string name="Лаб">Лаб3 Компьютеры</string>
+    <string name="ИТОГО">ИТОГО</string>
+    <string name="windows">windows</string>
+    <string name="linux">linux</string>
+    <string name="Итоги">Итоги:</string>
+    <string name="Назад">Назад</string>
+    <string name="Вперед">Вперед</string>
+    <string name="Выход">Выход</string>
+
+
+
+
+</resources>
